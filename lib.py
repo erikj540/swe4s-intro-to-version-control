@@ -3,3 +3,7 @@ def div(a, b):
         return a / b
     else:
         return None
+
+
+def mul(a, b):
+    return a * b
